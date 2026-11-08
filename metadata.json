@@ -1,0 +1,6 @@
+{
+  "name": "Cloud-Based Image Upscaler Pro",
+  "description": "Professional Cloud-Based AI Image Upscaling Web Application with 2X, 4X, 8X Super Resolution, batch processing, queue management, and ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
